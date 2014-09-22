@@ -1,0 +1,21 @@
+Hi {firstname} {lastname},
+
+Thank you for shopping at {shop_name}!
+
+Your order with the reference {order_name} has been placed successfully and will be shipped as soon as we receive your payment.
+
+Please make a cheque of {total_to_pay} payable to the order of {cheque_order} and send it to:
+{cheque_address}
+
+Or send us a bank wire with:
+- Amount: {total_to_pay}
+- Name of account owner: {bankwire_owner}
+- Include these details: {bankwire_details}
+
+You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+If you have guest account, you can follow your order using this link: {guest_tracking_url}
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™
